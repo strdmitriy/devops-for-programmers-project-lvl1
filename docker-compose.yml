@@ -3,7 +3,6 @@ services:
   app:
     build:
        context: .
-       dockerfile: Dockerfile
+       dockerfile: Dockerfile.production
+    image: 0136/devops-for-programmers-project-lvl1
     command: npm test
-    volumes:
-     - "./app:/app"
