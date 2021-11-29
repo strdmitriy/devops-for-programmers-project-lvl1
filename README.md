@@ -1,10 +1,10 @@
-#Run Container
+# Run Container
 make start
 
-#Run Tests
+# Run Tests
 make test
 
-#Docker Hub Image
+# Docker Hub Image
 docker pull 0136/devops-for-programmers-project-lvl1
 
 ### Hexlet tests and linter status:
