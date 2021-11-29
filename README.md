@@ -1,7 +1,9 @@
 #Run Container
 make start
+
 #Run Tests
 make test
+
 #Docker Hub Image
 docker pull 0136/devops-for-programmers-project-lvl1
 
