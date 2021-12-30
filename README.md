@@ -18,7 +18,7 @@
     5. make ci - prepare env and run tests
 
 ## Docker Hub Image
-docker pull 0136/devops-for-programmers-project-lvl1 (https://hub.docker.com/repository/docker/0136/devops-for-programmers-project-lvl1)
+docker pull 0136/devops-for-programmers-project-lvl1 [image](https://hub.docker.com/repository/docker/0136/devops-for-programmers-project-lvl1)
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/strdmitriy/devops-for-programmers-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/strdmitriy/devops-for-programmers-project-lvl1/actions)
